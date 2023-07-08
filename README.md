@@ -29,14 +29,21 @@ The data is collected through an online questionnaire sent to journalists, media
 Results: 
 
 Strong Level Correlation 
+
 ●	GDP Per Capita and Life Expectancy 
+
 ●	GDP Per Capita and Secondary School Enrollment 
+
 ●	GDP Per Capita and Unemployment 
+
 ●	GDP Per Capita and Press Freedom Index 
 
 Medium Level Correlation 
+
 ●	GDP Per Capita and University Enrollment 
+
 ●	GDP Per Capita and Infant Mortality 
 
 Low Level Correlation 
+
 ●	GDP Per Capita and Homicide Rate 
