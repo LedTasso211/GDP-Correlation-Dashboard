@@ -1,6 +1,4 @@
 # GDP-Correlation-Dashboard
-The dashboard explores the relationship between GDP and various social variables using data from the year 2019. 
-
 The dashboard I created explores the relationship between GDP and various social variables using data from the year 2019. The assumption behind this analysis is that wealthier countries tend to exhibit more favorable outcomes in these social variables compared to poorer countries. The choice of 2019 as the data year was pragmatic, as it provided the most extensive data availability for the variables analyzed.
 The data used in the dashboard consists of numerical, continuous variables, allowing for the construction of scatterplots to examine correlations between variables. Most of the data was sourced from the World Bank website. Here is a shortened description of the social variables analyzed and the corresponding data sources:
 
